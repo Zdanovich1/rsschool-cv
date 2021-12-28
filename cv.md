@@ -33,8 +33,7 @@ Belarusian National Technical University
   * https://learn.javascript.ru
 
 ## WORK EXPERIENCE
-No relevant experience
-yet.
+No relevant experience yet.
 
 ## CODE EXAMPLE
  ```                             
