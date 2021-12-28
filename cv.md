@@ -46,3 +46,6 @@ document.querySelector('.time').textContent = currentTime;
 }
 showTime();
 ```
+## LANGUAGES
+* Russian - native
+* English - Lavel A2-B1
